@@ -8,7 +8,7 @@ At [Kazobe](https://kazobe.com), I build creative and productivity software. Bur
 
 - [JobHunter](https://github.com/gleis/JobHunter) — a local-first job-search command center.
 - [cf-cert-monitor](https://github.com/gleis/cf-cert-monitor) — Cloudflare certificate inventory, expiry alerts, and reports.
-- [BrainRoute](https://github.com/gleis/BrainRoute) — privacy-aware routing across local and hosted language models.
+- [ModelRoute](https://github.com/gleis/ModelRoute) — privacy-aware routing across local and hosted language models.
 
 ## Infrastructure and Apple Silicon
 
